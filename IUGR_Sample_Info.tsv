@@ -1,0 +1,88 @@
+Sample	Dataset	Group	Tissue	Country	Gestational.Age(wk)	Infant.Gender	Labor.Induction
+GSM871046	GSE35574_A	IUGR	Placenta	USA	38	M	Spontaneous
+GSM871051	GSE35574_A	Control	Placenta	USA	39	M	Spontaneous
+GSM871052	GSE35574_A	Control	Placenta	USA	39	M	Spontaneous
+GSM871053	GSE35574_A	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871054	GSE35574_A	Control	Placenta	USA	39	F	Spontaneous
+GSM871055	GSE35574_A	IUGR	Placenta	USA	37	F	Induced
+GSM871056	GSE35574_A	Control	Placenta	USA	37	M	Spontaneous
+GSM871057	GSE35574_A	IUGR	Placenta	USA	39	F	Spontaneous
+GSM871059	GSE35574_A	Control	Placenta	USA	37	F	Induced
+GSM871060	GSE35574_A	Control	Placenta	USA	38	M	Spontaneous
+GSM871061	GSE35574_A	IUGR	Placenta	USA	37	M	Induced
+GSM871062	GSE35574_A	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871063	GSE35574_A	IUGR	Placenta	USA	38	F	Spontaneous
+GSM871065	GSE35574_A	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871066	GSE35574_A	Control	Placenta	USA	38	F	Spontaneous
+GSM871068	GSE35574_A	Control	Placenta	USA	38	F	Spontaneous
+GSM871069	GSE35574_B	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871071	GSE35574_B	Control	Placenta	USA	37	F	Spontaneous
+GSM871072	GSE35574_B	IUGR	Placenta	USA	35	F	Induced
+GSM871073	GSE35574_B	IUGR	Placenta	USA	39	M	Induced
+GSM871074	GSE35574_B	Control	Placenta	USA	37	F	Spontaneous
+GSM871075	GSE35574_B	Control	Placenta	USA	39	M	Spontaneous
+GSM871077	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871078	GSE35574_B	IUGR	Placenta	USA	37	F	Induced
+GSM871079	GSE35574_B	IUGR	Placenta	USA	37	M	Induced
+GSM871082	GSE35574_B	IUGR	Placenta	USA	37	M	Induced
+GSM871083	GSE35574_B	Control	Placenta	USA	39	F	Spontaneous
+GSM871084	GSE35574_B	IUGR	Placenta	USA	29	M	Induced
+GSM871085	GSE35574_B	IUGR	Placenta	USA	38	M	Spontaneous
+GSM871086	GSE35574_B	Control	Placenta	USA	37	F	Spontaneous
+GSM871087	GSE35574_B	IUGR	Placenta	USA	33	M	Induced
+GSM871088	GSE35574_B	IUGR	Placenta	USA	37	F	Induced
+GSM871089	GSE35574_B	Control	Placenta	USA	38	F	Spontaneous
+GSM871090	GSE35574_B	Control	Placenta	USA	39	M	Induced
+GSM871092	GSE35574_B	IUGR	Placenta	USA	32	F	Spontaneous
+GSM871093	GSE35574_B	Control	Placenta	USA	37	M	Spontaneous
+GSM871095	GSE35574_B	IUGR	Placenta	USA	39	F	Spontaneous
+GSM871097	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871098	GSE35574_B	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871099	GSE35574_B	Control	Placenta	USA	37	M	Spontaneous
+GSM871101	GSE35574_B	Control	Placenta	USA	40	F	Induced
+GSM871102	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871103	GSE35574_B	IUGR	Placenta	USA	37	M	Induced
+GSM871104	GSE35574_B	Control	Placenta	USA	39	M	Induced
+GSM871105	GSE35574_B	IUGR	Placenta	USA	38	F	Spontaneous
+GSM871106	GSE35574_B	IUGR	Placenta	USA	26	F	Spontaneous
+GSM871108	GSE35574_B	Control	Placenta	USA	34	F	Spontaneous
+GSM871109	GSE35574_B	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871110	GSE35574_B	IUGR	Placenta	USA	32	F	Spontaneous
+GSM871111	GSE35574_B	Control	Placenta	USA	36	M	Spontaneous
+GSM871113	GSE35574_B	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871114	GSE35574_B	Control	Placenta	USA	39	M	Spontaneous
+GSM871115	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871116	GSE35574_B	Control	Placenta	USA	35	F	Spontaneous
+GSM871118	GSE35574_B	Control	Placenta	USA	36	M	Spontaneous
+GSM871119	GSE35574_B	Control	Placenta	USA	39	M	Spontaneous
+GSM871120	GSE35574_B	IUGR	Placenta	USA	28	M	Spontaneous
+GSM871121	GSE35574_B	IUGR	Placenta	USA	37	F	Induced
+GSM871123	GSE35574_B	Control	Placenta	USA	39	M	Induced
+GSM871124	GSE35574_B	IUGR	Placenta	USA	33	M	Induced
+GSM871125	GSE35574_B	Control	Placenta	USA	38	F	Spontaneous
+GSM871127	GSE35574_B	Control	Placenta	USA	39	F	Spontaneous
+GSM871129	GSE35574_B	IUGR	Placenta	USA	37	F	Spontaneous
+GSM871130	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871132	GSE35574_B	IUGR	Placenta	USA	37	M	Induced
+GSM871133	GSE35574_B	Control	Placenta	USA	29	M	Spontaneous
+GSM871134	GSE35574_B	Control	Placenta	USA	40	F	Induced
+GSM871135	GSE35574_B	IUGR	Placenta	USA	37	M	Spontaneous
+GSM871136	GSE35574_B	Control	Placenta	USA	39	F	Spontaneous
+GSM871138	GSE35574_B	Control	Placenta	USA	38	M	Spontaneous
+GSM871139	GSE35574_B	IUGR	Placenta	USA	25	F	Spontaneous
+GSM594041	GSE24129	Control	Placenta	Japan			
+GSM594042	GSE24129	Control	Placenta	Japan			
+GSM594043	GSE24129	Control	Placenta	Japan			
+GSM594044	GSE24129	Control	Placenta	Japan			
+GSM594045	GSE24129	Control	Placenta	Japan			
+GSM594046	GSE24129	Control	Placenta	Japan			
+GSM594047	GSE24129	Control	Placenta	Japan			
+GSM594048	GSE24129	Control	Placenta	Japan			
+GSM594049	GSE24129	IUGR	Placenta	Japan			
+GSM594050	GSE24129	IUGR	Placenta	Japan			
+GSM594051	GSE24129	IUGR	Placenta	Japan			
+GSM594052	GSE24129	IUGR	Placenta	Japan			
+GSM594053	GSE24129	IUGR	Placenta	Japan			
+GSM594054	GSE24129	IUGR	Placenta	Japan			
+GSM594055	GSE24129	IUGR	Placenta	Japan			
+GSM594056	GSE24129	IUGR	Placenta	Japan			

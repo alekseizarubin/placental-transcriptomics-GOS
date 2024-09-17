@@ -1,0 +1,262 @@
+Sample	Dataset	Group	Tissue	Country	Ethnic	Gestationa.Age(wk)	Maternal.Age(y)	Infant.Gender	Labor.Induction
+GSM747298	GSE30186	Preeclampsia	Placenta	China	Chinese		24		Spontaneous
+GSM747299	GSE30186	Preeclampsia	Placenta	China	Chinese		23		Spontaneous
+GSM747300	GSE30186	Preeclampsia	Placenta	China	Chinese		30		Spontaneous
+GSM747301	GSE30186	Preeclampsia	Placenta	China	Chinese		28		Spontaneous
+GSM747302	GSE30186	Preeclampsia	Placenta	China	Chinese		20		Spontaneous
+GSM747303	GSE30186	Preeclampsia	Placenta	China	Chinese		31		Spontaneous
+GSM747304	GSE30186	Control	Placenta	China	Chinese		28		Spontaneous
+GSM747305	GSE30186	Control	Placenta	China	Chinese		27		Spontaneous
+GSM747306	GSE30186	Control	Placenta	China	Chinese		27		Spontaneous
+GSM747307	GSE30186	Control	Placenta	China	Chinese		32		Spontaneous
+GSM747308	GSE30186	Control	Placenta	China	Chinese		28		Spontaneous
+GSM747309	GSE30186	Control	Placenta	China	Chinese		29		Spontaneous
+GSM871047	GSE35574_A	Preeclampsia	Placenta	USA	Caucasian or African-American	36		F	Spontaneous
+GSM871049	GSE35574_A	Preeclampsia	Placenta	USA	Caucasian or African-American	37		M	Induced
+GSM871050	GSE35574_A	Preeclampsia	Placenta	USA	Caucasian or African-American	34		M	Induced
+GSM871051	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	39		M	Spontaneous
+GSM871052	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	39		M	Spontaneous
+GSM871054	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	39		F	Spontaneous
+GSM871056	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	37		M	Spontaneous
+GSM871059	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	37		F	Induced
+GSM871060	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871066	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871068	GSE35574_A	Control	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871070	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	38		M	Induced
+GSM871071	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	37		F	Spontaneous
+GSM871074	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	37		F	Spontaneous
+GSM871075	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Spontaneous
+GSM871076	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	27		F	Induced
+GSM871077	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871080	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871081	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	34		M	Induced
+GSM871083	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		F	Spontaneous
+GSM871086	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	37		F	Spontaneous
+GSM871089	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871090	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Induced
+GSM871091	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	35		F	Induced
+GSM871093	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	37		M	Spontaneous
+GSM871094	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	32		F	Induced
+GSM871096	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	34		M	Induced
+GSM871097	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871099	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	37		M	Spontaneous
+GSM871100	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	36		M	Induced
+GSM871101	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	40		F	Induced
+GSM871102	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871104	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Induced
+GSM871107	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	37		F	Induced
+GSM871108	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	34		F	Spontaneous
+GSM871111	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	36		M	Spontaneous
+GSM871112	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871114	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Spontaneous
+GSM871115	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871116	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	35		F	Spontaneous
+GSM871117	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	29		M	Induced
+GSM871118	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	36		M	Spontaneous
+GSM871119	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Spontaneous
+GSM871122	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	28		F	Induced
+GSM871123	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		M	Induced
+GSM871125	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		F	Spontaneous
+GSM871126	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	32		F	Spontaneous
+GSM871127	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		F	Spontaneous
+GSM871128	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	34		M	Spontaneous
+GSM871130	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM871131	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	33		F	Induced
+GSM871133	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	29		M	Spontaneous
+GSM871134	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	40		F	Induced
+GSM871136	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	39		F	Spontaneous
+GSM871137	GSE35574_B	Preeclampsia	Placenta	USA	Caucasian or African-American	27		F	Induced
+GSM871138	GSE35574_B	Control	Placenta	USA	Caucasian or African-American	38		M	Spontaneous
+GSM1089229	GSE44711	Preeclampsia	Chorionic villi	Canada		31.7			
+GSM1089230	GSE44711	Preeclampsia	Chorionic villi	Canada		33.7			
+GSM1089231	GSE44711	Preeclampsia	Chorionic villi	Canada		32			
+GSM1089232	GSE44711	Preeclampsia	Chorionic villi	Canada		31.7			
+GSM1089233	GSE44711	Preeclampsia	Chorionic villi	Canada		34			
+GSM1089234	GSE44711	Preeclampsia	Chorionic villi	Canada		24.86			
+GSM1089235	GSE44711	Preeclampsia	Chorionic villi	Canada		32.42			
+GSM1089236	GSE44711	Preeclampsia	Chorionic villi	Canada		37.28			
+GSM1089237	GSE44711	Control	Chorionic villi	Canada		25			
+GSM1089238	GSE44711	Control	Chorionic villi	Canada		26			
+GSM1089239	GSE44711	Control	Chorionic villi	Canada		31.42			
+GSM1089240	GSE44711	Control	Chorionic villi	Canada		32.56			
+GSM1089241	GSE44711	Control	Chorionic villi	Canada		32.86			
+GSM1089242	GSE44711	Control	Chorionic villi	Canada		33.7			
+GSM1089243	GSE44711	Control	Chorionic villi	Canada		36			
+GSM1089244	GSE44711	Control	Chorionic villi	Canada		34			
+GSM1480091	GSE60438	Control	Decidua basalis	Australia		41	33	F	
+GSM1480092	GSE60438	Control	Decidua basalis	Australia		39	29	F	
+GSM1480093	GSE60438	Control	Decidua basalis	Australia		38	34	M	
+GSM1480094	GSE60438	Control	Decidua basalis	Australia		40	29	M	
+GSM1480095	GSE60438	Control	Decidua basalis	Australia		38	26	M	
+GSM1480096	GSE60438	Control	Decidua basalis	Australia		38	28	M	
+GSM1480097	GSE60438	Control	Decidua basalis	Australia		39	37	F	
+GSM1480098	GSE60438	Control	Decidua basalis	Australia		38	39	F	
+GSM1480099	GSE60438	Control	Decidua basalis	Australia		41	37	M	
+GSM1480100	GSE60438	Control	Decidua basalis	Australia		39	34	F	
+GSM1480101	GSE60438	Control	Decidua basalis	Australia		38	32	F	
+GSM1480102	GSE60438	Control	Decidua basalis	Australia		40	32	M	
+GSM1480103	GSE60438	Control	Decidua basalis	Australia		38	30	F	
+GSM1480104	GSE60438	Control	Decidua basalis	Australia		39	37	M	
+GSM1480105	GSE60438	Control	Decidua basalis	Australia		39	38	F	
+GSM1480106	GSE60438	Control	Decidua basalis	Australia		38	30	M	
+GSM1480107	GSE60438	Control	Decidua basalis	Australia		37	30	M	
+GSM1480108	GSE60438	Control	Decidua basalis	Australia		39	36	F	
+GSM1480109	GSE60438	Control	Decidua basalis	Australia		42	31	F	
+GSM1480110	GSE60438	Control	Decidua basalis	Australia		39	28	F	
+GSM1480111	GSE60438	Control	Decidua basalis	Australia		39	35	F	
+GSM1480112	GSE60438	Control	Decidua basalis	Australia		39	23	M	
+GSM1480113	GSE60438	Control	Decidua basalis	Australia		39	37	M	
+GSM1480114	GSE60438	Control	Decidua basalis	Australia		39	33	F	
+GSM1480115	GSE60438	Control	Decidua basalis	Australia		38	32	M	
+GSM1480116	GSE60438	Control	Decidua basalis	Australia		39	32	F	
+GSM1480117	GSE60438	Control	Decidua basalis	Australia		39	30	M	
+GSM1480118	GSE60438	Control	Decidua basalis	Australia		39	29	F	
+GSM1480119	GSE60438	Control	Decidua basalis	Australia		42	24	M	
+GSM1480120	GSE60438	Control	Decidua basalis	Australia		40	35	F	
+GSM1480121	GSE60438	Control	Decidua basalis	Australia		39	33	F	
+GSM1480122	GSE60438	Control	Decidua basalis	Australia		39	46	M	
+GSM1480123	GSE60438	Control	Decidua basalis	Australia		40	36	M	
+GSM1480124	GSE60438	Control	Decidua basalis	Australia		38	32	F	
+GSM1480125	GSE60438	Control	Decidua basalis	Australia		39	34	F	
+GSM1480126	GSE60438	Control	Decidua basalis	Australia		41	28	M	
+GSM1480127	GSE60438	Control	Decidua basalis	Australia		39	35	F	
+GSM1480128	GSE60438	Preeclampsia	Decidua basalis	Australia		30	19	M	
+GSM1480129	GSE60438	Preeclampsia	Decidua basalis	Australia		32	34	M	
+GSM1480130	GSE60438	Preeclampsia	Decidua basalis	Australia		33	42	F	
+GSM1480131	GSE60438	Preeclampsia	Decidua basalis	Australia		36	39	M	
+GSM1480132	GSE60438	Preeclampsia	Decidua basalis	Australia		33	28	F	
+GSM1480133	GSE60438	Preeclampsia	Decidua basalis	Australia		31	40	M	
+GSM1480134	GSE60438	Preeclampsia	Decidua basalis	Australia		31	26	M	
+GSM1480135	GSE60438	Preeclampsia	Decidua basalis	Australia		34	33	M	
+GSM1480136	GSE60438	Preeclampsia	Decidua basalis	Australia		33	32	F+F	
+GSM1480137	GSE60438	Preeclampsia	Decidua basalis	Australia		27	28	M	
+GSM1480138	GSE60438	Preeclampsia	Decidua basalis	Australia		27	32	M	
+GSM1480139	GSE60438	Preeclampsia	Decidua basalis	Australia		31	29	F	
+GSM1480140	GSE60438	Preeclampsia	Decidua basalis	Australia		31	27	M	
+GSM1480141	GSE60438	Preeclampsia	Decidua basalis	Australia		35	26	M	
+GSM1480142	GSE60438	Preeclampsia	Decidua basalis	Australia		28	28	M	
+GSM1480143	GSE60438	Preeclampsia	Decidua basalis	Australia		39	42	F	
+GSM1480144	GSE60438	Preeclampsia	Decidua basalis	Australia		31	33	M	
+GSM1480145	GSE60438	Preeclampsia	Decidua basalis	Australia		38	20	M	
+GSM1480146	GSE60438	Preeclampsia	Decidua basalis	Australia		32	22	M	
+GSM1480147	GSE60438	Preeclampsia	Decidua basalis	Australia		25	30	M	
+GSM1480148	GSE60438	Preeclampsia	Decidua basalis	Australia		28	26	M	
+GSM1480149	GSE60438	Preeclampsia	Decidua basalis	Australia		39	21	F	
+GSM1480150	GSE60438	Preeclampsia	Decidua basalis	Australia		27	39	F	
+GSM1480151	GSE60438	Preeclampsia	Decidua basalis	Australia		35	26	M	
+GSM1480152	GSE60438	Preeclampsia	Decidua basalis	Australia		31	26	F	
+GSM1480153	GSE60438	Preeclampsia	Decidua basalis	Australia		39	41	F	
+GSM1480154	GSE60438	Preeclampsia	Decidua basalis	Australia		29	36	M	
+GSM1480155	GSE60438	Preeclampsia	Decidua basalis	Australia		37	34	M	
+GSM1480156	GSE60438	Preeclampsia	Decidua basalis	Australia		25	40	F	
+GSM1480157	GSE60438	Control	Decidua basalis	Australia		40	31	M	
+GSM1480158	GSE60438	Control	Decidua basalis	Australia		41	31	M	
+GSM1480159	GSE60438	Control	Decidua basalis	Australia		39	40	F	
+GSM1480160	GSE60438	Control	Decidua basalis	Australia		39	36	F	
+GSM1480161	GSE60438	Control	Decidua basalis	Australia		39	35	M	
+GSM1480162	GSE60438	Preeclampsia	Decidua basalis	Australia		38	47	F	
+GSM1480163	GSE60438	Preeclampsia	Decidua basalis	Australia		38	25	M	
+GSM1480164	GSE60438	Preeclampsia	Decidua basalis	Australia		41	36	F	
+GSM1480165	GSE60438	Preeclampsia	Decidua basalis	Australia		38	35	F	
+GSM1480166	GSE60438	Preeclampsia	Decidua basalis	Australia		30	32	M	
+GSM1480167	GSE60438	Preeclampsia	Decidua basalis	Australia		27	41	F	
+GSM151955	GSE6573	Control	Decidua basalis	Germany					
+GSM151957	GSE6573	Preeclampsia	Decidua basalis	Germany					
+GSM151958	GSE6573	Control	Placenta	Germany					
+GSM151959	GSE6573	Preeclampsia	Placenta	Germany					
+GSM1891989	GSE73374	Control	Placenta	USA	Caucasian	39	28		
+GSM1891990	GSE73374	Preeclampsia	Placenta	USA	African American	34	35		
+GSM1891991	GSE73374	Preeclampsia	Placenta	USA	African American	33	28		
+GSM1891992	GSE73374	Control	Placenta	USA	African American	41	22		
+GSM1891993	GSE73374	Control	Placenta	USA	African American	40	26		
+GSM1891994	GSE73374	Control	Placenta	USA	Caucasian	39	34		
+GSM1891995	GSE73374	Control	Placenta	USA	Caucasian	40	33		
+GSM1891996	GSE73374	Control	Placenta	USA	Asian	36	30		
+GSM1891997	GSE73374	Control	Placenta	USA	Hispanic	40	19		
+GSM1891998	GSE73374	Control	Placenta	USA	African American	36	33		
+GSM1891999	GSE73374	Control	Placenta	USA	African American	37	20		
+GSM1892000	GSE73374	Control	Placenta	USA	African American	41	27		
+GSM1892001	GSE73374	Control	Placenta	USA	African American	38	38		
+GSM1892002	GSE73374	Control	Placenta	USA	Caucasian	40	32		
+GSM1892003	GSE73374	Control	Placenta	USA	Hispanic	38	36		
+GSM1892004	GSE73374	Control	Placenta	USA	Hispanic	40	25		
+GSM1892005	GSE73374	Control	Placenta	USA	Hispanic	40	20		
+GSM1892006	GSE73374	Control	Placenta	USA	Caucasian	35	32		
+GSM1892007	GSE73374	Control	Placenta	USA	Caucasian	36	25		
+GSM1892008	GSE73374	Preeclampsia	Placenta	USA	African American	34	25		
+GSM1892009	GSE73374	Preeclampsia	Placenta	USA	Hispanic	38	19		
+GSM1892010	GSE73374	Preeclampsia	Placenta	USA	Caucasian	29	29		
+GSM1892011	GSE73374	Preeclampsia	Placenta	USA	Other	22	24		
+GSM1892012	GSE73374	Preeclampsia	Placenta	USA	African American	27	34		
+GSM1892013	GSE73374	Preeclampsia	Placenta	USA	Caucasian	30	34		
+GSM1892014	GSE73374	Preeclampsia	Placenta	USA	Caucasian	40	29		
+GSM1892015	GSE73374	Preeclampsia	Placenta	USA	African American	30	32		
+GSM1892016	GSE73374	Preeclampsia	Placenta	USA	Other	36	32		
+GSM1892017	GSE73374	Preeclampsia	Placenta	USA	Other	32	31		
+GSM1892018	GSE73374	Preeclampsia	Placenta	USA	African American	40	20		
+GSM1892019	GSE73374	Preeclampsia	Placenta	USA	African American	27	20		
+GSM1892020	GSE73374	Preeclampsia	Placenta	USA	African American	35	24		
+GSM1892021	GSE73374	Preeclampsia	Placenta	USA	Hispanic	37	36		
+GSM1892022	GSE73374	Preeclampsia	Placenta	USA	Caucasian	28	37		
+GSM1892023	GSE73374	Preeclampsia	Placenta	USA	Caucasian	36	26		
+GSM1892024	GSE73374	Preeclampsia	Placenta	USA	African American	35	25		
+GSM2480221	GSE94643	Control	Decidua basalis	USA					
+GSM2480222	GSE94643	Control	Decidua basalis	USA					
+GSM2480223	GSE94643	Control	Decidua basalis	USA					
+GSM2480224	GSE94643	Control	Decidua basalis	USA					
+GSM2480225	GSE94643	Control	Decidua parietalis	USA					
+GSM2480226	GSE94643	Control	Decidua parietalis	USA					
+GSM2480227	GSE94643	Control	Decidua parietalis	USA					
+GSM2480228	GSE94643	Control	Decidua parietalis	USA					
+GSM2480229	GSE94643	Preeclampsia	Decidua basalis	USA					
+GSM2480230	GSE94643	Preeclampsia	Decidua basalis	USA					
+GSM2480231	GSE94643	Preeclampsia	Decidua basalis	USA					
+GSM2480232	GSE94643	Preeclampsia	Decidua basalis	USA					
+GSM2480233	GSE94643	Preeclampsia	Decidua parietalis	USA					
+GSM2480234	GSE94643	Preeclampsia	Decidua parietalis	USA					
+GSM2480235	GSE94643	Preeclampsia	Decidua parietalis	USA					
+GSM2480236	GSE94643	Preeclampsia	Decidua parietalis	USA					
+K1-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	39	32		
+G8-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	40	33		
+K2-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	26		
+G9-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	38	24		
+K3-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	30		
+K9-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	40	23		
+K8-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	26		
+K10-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	23		
+G4-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	41	26		
+K11-1	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	40	30		
+G6-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	37	34		
+G11-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	37	24		
+K6-2	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	40	29		
+G12-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	38	18		
+G9-2	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	34	25		
+K8-2	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	39	28		
+G3-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	39	25		
+K10-2	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	40	25		
+G10-1	OUR_R	Preeclampsia	Placenta	Russia(Tomsk)	Russian	36	27		
+K12-2	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	29		
+K1-2	OUR_R	Control	Placenta	Russia(Tomsk)	Russian	41	27		
+Gya4	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	36	28		
+Gya6	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	36	25		
+Gya10	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	39	17		
+Gya17	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	39	28		
+Gya18	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	35	40		
+Gya19	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	37	22		
+Kya11	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	38	20		
+Kya12	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	37	18		
+Kya13	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	38	23		
+Kya14	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	40	23		
+Kya15	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	40	25		
+Gya1	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	38	28		
+Gya2	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	39	26		
+Gya3	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	38	24		
+Gya8	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	39	27		
+Gya13	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	38	40		
+Gya16	OUR_Y	Preeclampsia	Placenta	Russia(Yakut)	Yakuts	35	27		
+Kya1	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	39	23		
+Kya3	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	40	31		
+Kya5	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	38	29		
+Kya6	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	39	21		
+Kya7	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	39	25		
+Kya9	OUR_Y	Control	Placenta	Russia(Yakut)	Yakuts	40	20		

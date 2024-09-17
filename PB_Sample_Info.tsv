@@ -1,0 +1,57 @@
+Sample	Dataset	Group	Tissue	Country	Labor.Induction
+GSM1900770	GSE73685	Control	Chorion	USA	Induced
+GSM1900771	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900776	GSE73685	PB	Chorion	USA	Spontaneous
+GSM1900779	GSE73685	PB	Chorion	USA	Induced
+GSM1900780	GSE73685	PB	Decidua basalis	USA	Induced
+GSM1900782	GSE73685	PB	Placenta	USA	Induced
+GSM1900784	GSE73685	Control	Placenta	USA	Induced
+GSM1900787	GSE73685	Control	Chorion	USA	Spontaneous
+GSM1900788	GSE73685	Control	Decidua basalis	USA	Spontaneous
+GSM1900790	GSE73685	Control	Placenta	USA	Spontaneous
+GSM1900793	GSE73685	Control	Placenta	USA	Induced
+GSM1900801	GSE73685	Control	Placenta	USA	Induced
+GSM1900804	GSE73685	Control	Chorion	USA	Spontaneous
+GSM1900805	GSE73685	Control	Decidua basalis	USA	Spontaneous
+GSM1900807	GSE73685	Control	Placenta	USA	Spontaneous
+GSM1900810	GSE73685	PB	Chorion	USA	Spontaneous
+GSM1900811	GSE73685	PB	Decidua basalis	USA	Spontaneous
+GSM1900812	GSE73685	PB	Placenta	USA	Induced
+GSM1900824	GSE73685	Control	Chorion	USA	Induced
+GSM1900825	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900827	GSE73685	Control	Placenta	USA	Induced
+GSM1900832	GSE73685	Control	Chorion	USA	Induced
+GSM1900833	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900835	GSE73685	Control	Placenta	USA	Induced
+GSM1900840	GSE73685	PB	Decidua basalis	USA	Induced
+GSM1900842	GSE73685	PB	Placenta	USA	Induced
+GSM1900847	GSE73685	Control	Chorion	USA	Induced
+GSM1900848	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900854	GSE73685	Control	Chorion	USA	Induced
+GSM1900855	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900861	GSE73685	Control	Chorion	USA	Induced
+GSM1900862	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900864	GSE73685	Control	Placenta	USA	Induced
+GSM1900869	GSE73685	Control	Chorion	USA	Spontaneous
+GSM1900870	GSE73685	Control	Decidua basalis	USA	Spontaneous
+GSM1900871	GSE73685	Control	Placenta	USA	Spontaneous
+GSM1900874	GSE73685	PB	Chorion	USA	Induced
+GSM1900875	GSE73685	PB	Decidua basalis	USA	Induced
+GSM1900877	GSE73685	PB	Placenta	USA	Induced
+GSM1900882	GSE73685	PB	Chorion	USA	Induced
+GSM1900883	GSE73685	PB	Decidua basalis	USA	Induced
+GSM1900888	GSE73685	PB	Chorion	USA	Spontaneous
+GSM1900889	GSE73685	PB	Decidua basalis	USA	Spontaneous
+GSM1900900	GSE73685	PB	Placenta	USA	Spontaneous
+GSM1900911	GSE73685	Control	Decidua basalis	USA	Spontaneous
+GSM1900913	GSE73685	Control	Placenta	USA	Spontaneous
+GSM1900923	GSE73685	PB	Placenta	USA	Spontaneous
+GSM1900928	GSE73685	Control	Chorion	USA	Spontaneous
+GSM1900930	GSE73685	Control	Placenta	USA	Spontaneous
+GSM1900935	GSE73685	PB	Chorion	USA	Induced
+GSM1900936	GSE73685	PB	Decidua basalis	USA	Induced
+GSM1900942	GSE73685	Control	Chorion	USA	Induced
+GSM1900943	GSE73685	Control	Decidua basalis	USA	Induced
+GSM1900945	GSE73685	Control	Placenta	USA	Induced
+GSM1900948	GSE73685	Control	Chorion	USA	Spontaneous
+GSM1900949	GSE73685	Control	Decidua basalis	USA	Spontaneous
