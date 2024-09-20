@@ -18,6 +18,12 @@
 * `PB_Sample_Info.tsv` - Информация об образцах в датасете PB
 * `PE_Sample_Info.tsv` - Информация об образцах в датасетах PE
 
+Дополнительные таблицы и рисунки к публикации:
+
+* `Supplemental_picture_1_GOS_Shared_64_gene_signature_score.jpg`
+* `Supplemental_tables_1_3.xlsx` 
+* `Supplemental table_4_Master_regulators_annotated.xlsx` 
+
 ---
 
 [English version]
@@ -37,3 +43,9 @@ Description of the datasets used for the analysis:
 * `IUGR_Sample_Info.tsv` - Sample information for IUGR datasets
 * `PB_Sample_Info.tsv` - Sample information for PB dataset
 * `PE_Sample_Info.tsv` - Sample information for in PE datasets
+
+Supplemental tables and picture for the publication:
+
+* `Supplemental_picture_1_GOS_Shared_64_gene_signature_score.jpg`
+* `Supplemental_tables_1_3.xlsx` 
+* `Supplemental table_4_Master_regulators_annotated.xlsx`
